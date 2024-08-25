@@ -1,0 +1,15 @@
+https://dev.mysql.com/doc/connector-python/en/
+https://pandas.pydata.org/docs/reference/api/pandas.read_sql.html
+
+
+
+
+
+https://dev.mysql.com/doc/employee/en/employees-installation.html
+Command prompt commands
+mysql -uroot -p < employees.sql
+
+
+
+https://stackoverflow.com/questions/5920136/mysql-is-not-recognised-as-an-internal-or-external-command-operable-program-or-b
+https://dev.mysql.com/doc/mysql-windows-excerpt/5.7/en/resetting-permissions-windows.html
